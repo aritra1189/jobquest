@@ -65,7 +65,7 @@ Likely manages user accounts, job listings, and overall platform health.
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SubhadeepECE13/Job-Portal-Main.git
+  https://github.com/aritra1189/jobquest.git
 ''
 2. Install Dependencies: npm install
 3. Start the frontend: cd frontend
